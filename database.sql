@@ -1,0 +1,10 @@
+-- CREATE TABLE CLIENTS(
+
+-- client_id INT PRIMARY KEY AUTO_INCREMENT,
+-- fname VARCHAR(25) NOT NULL,
+-- mname VARCHAR(25),
+-- lname VARCHAR(25)NOT NULL,
+-- phone VARCHAR(14)NOT NULL,
+-- email VARCHAR(40) NOT NULL,
+-- passport VARCHAR(40) NOT NULL
+-- );

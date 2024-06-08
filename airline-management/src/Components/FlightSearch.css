@@ -1,0 +1,77 @@
+ body {
+    font-family: Arial, sans-serif;
+    background-image: url("/Users/anushkasinha/Documents/airline-management/airline-management/src/assets/jumbo-jet-flying-sky.jpg");
+    background-size:50%;
+    background-repeat: no-repeat;
+    
+}
+
+.form-container {
+    background-color: #4A90E2;
+    padding: 5%;
+    width: 90%;
+    max-width: 400px;
+    margin: 0 auto;
+    border-radius: 8px;
+    position: relative;
+    z-index: 1;
+    text-align: center;
+    color: white;
+}
+
+.form-container h1 {
+    color: #fff;
+    text-align: center;
+}
+
+.form-container label {
+    color: #fff;
+    display: block;
+    margin-bottom: 2%;
+}
+
+.form-container input, 
+.form-container select, 
+.form-container button {
+    width: 100%;
+    padding: 2.5%;
+    margin-bottom: 3%;
+    border: none;
+    border-radius: 4px;
+}
+
+.form-container button {
+    background-color: #F5A623;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.form-container button:hover {
+    background-color: #e5951e;
+}
+
+.radio-group {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 3%;
+}
+
+.checkbox-group {
+    display: flex;
+    justify-content: space-between;
+}
+
+.checkbox-group label {
+    display: flex;
+    align-items: center;
+    color: #fff;
+}
+
+.checkbox-group input {
+    width: auto;
+    margin-right: 5%;
+} 
+
+
+  
